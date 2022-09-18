@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86cd7f73-ba97-4ed0-9afa-2f0b559cf8a4" name="Changes" comment="performed prime number exercise refactored">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="86cd7f73-ba97-4ed0-9afa-2f0b559cf8a4" name="Changes" comment="codes were refactored">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663449038147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="codes were refactored">
+      <created>1663449482032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663449482032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +81,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="performed prime number exercise" />
     <MESSAGE value="performed prime number exercise refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="performed prime number exercise refactored" />
+    <MESSAGE value="codes were refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="codes were refactored" />
   </component>
 </project>
